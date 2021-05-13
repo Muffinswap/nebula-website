@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
             <Grid container direction='column'>
               <Grid item>
                 <Typography variant='h4' color='textPrimary'>
-                  This is experimental version of wallet.
+                  This is Beta testing Solana Name Service Project.
                 </Typography>
               </Grid>
               <Grid item>
@@ -39,12 +39,12 @@ export const Footer: React.FC = () => {
             <Grid container direction='column'>
               <Grid item>
                 <Typography variant='h4' color='textPrimary'>
-                  Created by
+                  Follow us
                 </Typography>
               </Grid>
               <Grid item>
                 <Typography variant='h4' color='textPrimary'>
-                  Norbert Bodziony
+                  On
                 </Typography>
               </Grid>
               <Grid item style={{ marginTop: 8 }}>
